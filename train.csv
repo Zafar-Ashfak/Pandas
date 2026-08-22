@@ -1,0 +1,121 @@
+train_number,train_name,source,destination,departure_time,arrival_time,distance_km,duration_hours,train_type,class,fare,available_seats,platform,running_days,rating
+19270,Duronto Express,Howrah,Jaipur,18:01,14:32,1799.0,35.3,Express,CC,2956.0,353.0,11.0,Tue-Sun,3.6
+12860,Rajdhani Express,Jaipur,Patna,22:49,21:36,1350.0,18.7,Superfast,CC,2640.0,11.0,,Wed-Sun,3.6
+17390,Duronto Express,Bhopal,Kolkata,12:20,01:01,1782.0,13.2,Superfast,2A,477.0,274.0,14.0,Daily,2.9
+17191,Garib Rath Express,Howrah,Patna,01:56,09:55,1655.0,23.5,Passenger,1A,3460.0,,4.0,Mon-Sat,4.5
+17734,Duronto Express,Chennai Central,Bengaluru,13:10,12:08,2194.0,10.2,Superfast,SL,3450.0,43.0,13.0,Daily,4.2
+18265,Rajdhani Express,Lucknow,Hyderabad,19:10,,1356.0,4.6,Premium,2A,,,14.0,Mon-Fri,3.1
+12466,Garib Rath Express,Chennai Central,Chennai Central,23:36,06:36,1649.0,6.4,Superfast,1A,3204.0,304.0,1.0,Tue-Sun,2.7
+16426,Gatimaan Express,Chennai Central,Jaipur,16:52,11:38,1266.0,6.4,Passenger,2S,2293.0,444.0,,Mon-Fri,
+17578,Humsafar Express,Howrah,Ahmedabad,18:01,17:22,1496.0,7.2,Superfast,3A,1461.0,16.0,14.0,Daily,4.1
+20322,Humsafar Express,Vijayawada,Bengaluru,10:33,02:56,570.0,6.7,Premium,CC,3341.0,329.0,5.0,Daily,3.2
+13685,Konkan Kanya Express,Howrah,Pune,08:32,06:35,1135.0,23.8,Express,2S,2688.0,56.0,12.0,Wed-Sun,4.9
+12769,Intercity Express,Ahmedabad,Kolkata,13:21,07:24,1453.0,8.2,Passenger,1A,4133.0,310.0,9.0,Mon-Sat,2.9
+22583,Gatimaan Express,,New Delhi,18:39,20:56,1067.0,13.8,Express,2S,314.0,496.0,8.0,Mon-Sat,3.6
+18949,Gatimaan Express,Pune,Patna,19:01,,457.0,32.5,Express,3A,4427.0,,12.0,Mon-Fri,4.9
+14433,Tamil Nadu Express,Vijayawada,Bengaluru,09:19,04:24,767.0,18.1,Express,1A,972.0,11.0,9.0,Tue-Sun,3.5
+17311,Duronto Express,Mumbai Central,Chennai Central,08:07,07:34,472.0,24.7,Mail,2S,1093.0,317.0,10.0,Mon-Sat,4.1
+17051,Humsafar Express,Pune,Jaipur,21:00,11:57,1131.0,7.9,Mail,CC,924.0,79.0,14.0,Wed-Sun,3.5
+18420,Rajdhani Express,New Delhi,New Delhi,14:56,12:14,1245.0,8.5,Express,CC,2348.0,215.0,9.0,Mon-Fri,3.2
+13184,Vande Bharat Express,Bhopal,Howrah,21:35,23:27,1471.0,3.4,Passenger,2A,3306.0,338.0,7.0,Mon-Fri,5.0
+16555,Vande Bharat Express,Jaipur,Kolkata,20:12,14:10,189.0,7.7,Premium,2S,,263.0,4.0,Wed-Sun,3.5
+15385,Garib Rath Express,Ahmedabad,Bengaluru,11:43,23:10,639.0,11.5,Premium,SL,3845.0,478.0,5.0,Tue-Sun,4.7
+18396,Humsafar Express,Ahmedabad,,09:40,02:23,968.0,8.0,Superfast,2S,3602.0,148.0,1.0,Wed-Sun,3.1
+20666,Humsafar Express,Mumbai Central,New Delhi,13:09,14:44,140.0,5.0,Passenger,1A,1064.0,80.0,,Tue-Sun,3.0
+21274,Konkan Kanya Express,Vijayawada,,14:20,18:12,839.0,6.1,Mail,1A,1458.0,214.0,1.0,Wed-Sun,2.6
+14558,Vande Bharat Express,Patna,Mumbai Central,04:06,18:42,2046.0,17.7,Express,2S,4327.0,484.0,3.0,Wed-Sun,4.1
+19849,Humsafar Express,Lucknow,Ahmedabad,18:19,06:35,,9.0,Superfast,3A,663.0,373.0,13.0,Daily,3.4
+14047,Konkan Kanya Express,Chennai Central,Lucknow,02:33,17:28,1028.0,,Premium,CC,2070.0,463.0,14.0,Mon-Fri,
+14747,Duronto Express,Vijayawada,Hyderabad,16:36,15:47,,19.1,Mail,1A,3744.0,197.0,8.0,Wed-Sun,3.7
+21167,Jan Shatabdi Express,,Lucknow,18:29,14:50,1024.0,25.5,Mail,CC,1559.0,199.0,14.0,Wed-Sun,4.9
+21998,Tamil Nadu Express,Lucknow,Chennai Central,11:36,19:34,1681.0,3.3,Express,1A,3340.0,24.0,2.0,Mon-Sat,3.0
+12189,Shatabdi Express,Ahmedabad,Pune,21:48,19:27,489.0,29.2,Premium,2A,1705.0,465.0,4.0,Mon-Fri,4.7
+14734,Gatimaan Express,Howrah,Patna,20:43,09:28,1717.0,23.3,Passenger,SL,954.0,88.0,,Mon-Sat,4.4
+15005,Intercity Express,Jaipur,Pune,18:12,17:42,,4.8,Mail,1A,1429.0,,14.0,Mon-Fri,4.4
+16658,Garib Rath Express,New Delhi,Mumbai Central,17:50,01:48,808.0,31.7,Express,CC,3727.0,142.0,5.0,Mon-Sat,4.6
+13899,Jan Shatabdi Express,Mumbai Central,Hyderabad,16:48,17:45,1938.0,33.3,Passenger,2A,3051.0,58.0,9.0,Wed-Sun,4.4
+19734,Tamil Nadu Express,New Delhi,Vijayawada,01:33,20:09,2044.0,4.1,Premium,1A,1537.0,409.0,1.0,Wed-Sun,4.1
+13267,Tamil Nadu Express,Patna,Mumbai Central,15:57,15:34,109.0,11.4,Mail,3A,2911.0,,5.0,Daily,2.8
+13528,Tamil Nadu Express,Jaipur,Bhopal,16:51,,897.0,29.4,Passenger,SL,2829.0,364.0,14.0,Mon-Sat,
+15556,Tamil Nadu Express,Bengaluru,Lucknow,07:32,20:46,976.0,,Passenger,1A,2256.0,25.0,9.0,Tue-Sun,4.8
+15890,Vande Bharat Express,Bengaluru,Mumbai Central,20:27,10:33,1128.0,,Passenger,2A,4373.0,46.0,1.0,Daily,
+20838,Konkan Kanya Express,Bhopal,Lucknow,15:11,,1115.0,9.1,Mail,3A,2918.0,287.0,9.0,Mon-Sat,4.5
+17393,Gatimaan Express,Vijayawada,New Delhi,03:37,19:46,1924.0,14.6,Mail,2S,4103.0,265.0,,Mon-Sat,3.7
+22627,Humsafar Express,Ahmedabad,Pune,07:53,20:38,473.0,18.5,Superfast,2A,3336.0,15.0,,Daily,2.8
+20792,Tamil Nadu Express,Ahmedabad,New Delhi,07:11,12:12,2293.0,,Premium,2A,3430.0,198.0,12.0,Wed-Sun,2.8
+22555,Intercity Express,Chennai Central,Ahmedabad,05:40,03:54,323.0,14.5,Express,3A,2723.0,400.0,11.0,Mon-Sat,4.2
+22253,Humsafar Express,Chennai Central,Bhopal,09:10,10:57,1362.0,17.7,Passenger,2A,,406.0,10.0,Wed-Sun,3.6
+20433,Rajdhani Express,Chennai Central,Hyderabad,21:52,12:30,2324.0,27.4,Superfast,3A,4183.0,281.0,5.0,Daily,3.0
+22233,Rajdhani Express,Howrah,Vijayawada,21:17,09:47,1902.0,3.2,Express,1A,386.0,468.0,,Wed-Sun,3.7
+19513,Intercity Express,Pune,Kolkata,05:56,17:12,952.0,10.6,Superfast,3A,1454.0,85.0,5.0,Mon-Fri,2.7
+14612,Konkan Kanya Express,Hyderabad,Lucknow,00:22,18:17,162.0,26.3,Mail,3A,3580.0,249.0,11.0,Tue-Sun,4.0
+19041,Intercity Express,Pune,Vijayawada,08:41,15:53,1340.0,32.4,Passenger,SL,1451.0,390.0,,Mon-Sat,3.2
+21555,Vande Bharat Express,New Delhi,Lucknow,18:43,08:11,788.0,19.4,Express,3A,2691.0,269.0,6.0,Tue-Sun,4.5
+18235,Intercity Express,Pune,Chennai Central,13:21,,1584.0,,Express,3A,2201.0,334.0,7.0,Wed-Sun,3.3
+17486,Duronto Express,Howrah,Mumbai Central,20:03,21:16,1733.0,5.6,Express,2S,,116.0,8.0,Mon-Sat,3.6
+19099,Humsafar Express,Bhopal,Ahmedabad,20:46,20:53,2252.0,17.2,Express,1A,2226.0,6.0,14.0,Wed-Sun,2.5
+21670,Jan Shatabdi Express,New Delhi,Pune,12:41,19:57,610.0,,Express,SL,3330.0,136.0,8.0,Mon-Fri,2.7
+22748,Deccan Queen,Pune,Kolkata,07:21,19:51,484.0,10.2,Superfast,2S,2807.0,370.0,11.0,Daily,3.5
+12775,Konkan Kanya Express,Howrah,Jaipur,12:48,02:49,504.0,,Passenger,CC,3948.0,175.0,14.0,Mon-Sat,
+20226,Intercity Express,Hyderabad,Lucknow,16:55,23:36,617.0,14.8,Mail,1A,954.0,327.0,13.0,Mon-Fri,4.0
+15152,Garib Rath Express,Pune,Vijayawada,22:28,15:45,575.0,2.7,Mail,1A,224.0,497.0,2.0,Mon-Fri,3.2
+22147,Rajdhani Express,Howrah,Ahmedabad,08:35,13:14,2100.0,13.0,Mail,CC,2325.0,314.0,9.0,Mon-Sat,4.2
+13585,Duronto Express,Patna,Howrah,17:19,10:33,1768.0,9.2,Mail,3A,4074.0,214.0,7.0,Wed-Sun,4.7
+15943,Gatimaan Express,Chennai Central,,13:11,20:17,1993.0,13.1,Superfast,2S,2239.0,476.0,4.0,Mon-Fri,4.4
+19555,Tamil Nadu Express,Patna,,05:35,00:28,1560.0,6.1,Premium,2A,190.0,81.0,4.0,Tue-Sun,2.6
+15073,Deccan Queen,,New Delhi,04:17,19:48,813.0,32.3,Passenger,SL,2231.0,222.0,11.0,Mon-Fri,3.7
+13021,Konkan Kanya Express,Chennai Central,Pune,08:16,05:38,182.0,22.2,Express,2A,1772.0,477.0,8.0,Wed-Sun,2.8
+22805,Jan Shatabdi Express,,Patna,14:55,23:08,1268.0,25.1,Premium,CC,491.0,371.0,4.0,Wed-Sun,3.1
+15843,Deccan Queen,,,02:39,22:45,2001.0,28.8,Mail,1A,4202.0,422.0,13.0,Tue-Sun,5.0
+19989,Intercity Express,,Jaipur,14:11,,2148.0,18.9,Premium,1A,,482.0,6.0,Mon-Fri,2.9
+21692,Vande Bharat Express,Patna,Chennai Central,11:29,08:30,150.0,5.0,Passenger,SL,795.0,401.0,5.0,Wed-Sun,3.7
+18873,Rajdhani Express,Mumbai Central,Vijayawada,06:19,22:30,784.0,20.3,Express,1A,4413.0,442.0,3.0,Mon-Sat,
+17675,Rajdhani Express,Mumbai Central,Jaipur,15:56,03:36,816.0,22.0,Express,1A,759.0,,13.0,Daily,4.3
+12161,Gatimaan Express,Hyderabad,Mumbai Central,11:30,,1569.0,27.3,Passenger,SL,604.0,102.0,14.0,Daily,3.9
+16297,Vande Bharat Express,Chennai Central,Mumbai Central,21:31,19:15,548.0,16.7,Passenger,2S,3103.0,272.0,10.0,Daily,2.5
+22173,Tamil Nadu Express,Kolkata,,19:51,18:13,980.0,6.3,Mail,2S,1858.0,13.0,11.0,Mon-Fri,3.3
+12995,Humsafar Express,Ahmedabad,Hyderabad,17:46,21:15,,11.6,Express,SL,3622.0,158.0,2.0,Tue-Sun,3.8
+19629,Shatabdi Express,Howrah,Chennai Central,04:44,23:58,1923.0,14.3,Premium,CC,3119.0,151.0,9.0,Wed-Sun,2.7
+21467,Duronto Express,New Delhi,Ahmedabad,06:36,07:24,2181.0,24.0,Superfast,1A,3178.0,482.0,10.0,Mon-Sat,3.4
+13016,Rajdhani Express,Howrah,,00:11,14:35,2242.0,21.4,Superfast,1A,2831.0,107.0,9.0,Mon-Sat,2.6
+19869,Garib Rath Express,,Patna,22:05,20:05,1674.0,14.1,Passenger,CC,3779.0,187.0,1.0,Mon-Fri,2.7
+18439,Rajdhani Express,Patna,Kolkata,21:16,02:46,2301.0,35.5,Mail,2S,4375.0,300.0,10.0,Daily,3.5
+19892,Deccan Queen,Bengaluru,Hyderabad,08:18,01:30,349.0,22.6,Superfast,3A,,97.0,,Mon-Fri,2.8
+18863,Rajdhani Express,Howrah,Lucknow,12:33,11:53,773.0,,Express,3A,1536.0,130.0,8.0,Tue-Sun,3.9
+19916,Konkan Kanya Express,Pune,Lucknow,00:34,00:38,537.0,5.5,Passenger,3A,3926.0,,6.0,Tue-Sun,4.2
+20529,Rajdhani Express,Pune,Hyderabad,12:06,19:09,2265.0,7.2,Premium,2S,3016.0,170.0,5.0,Wed-Sun,4.5
+12878,Shatabdi Express,Vijayawada,New Delhi,14:08,,870.0,10.4,Passenger,2S,3513.0,423.0,5.0,Wed-Sun,3.0
+21268,Shatabdi Express,Chennai Central,Howrah,01:29,10:52,367.0,7.5,Premium,CC,4274.0,473.0,6.0,Tue-Sun,2.9
+16887,Tamil Nadu Express,New Delhi,Lucknow,12:55,12:33,2084.0,,Passenger,1A,298.0,182.0,7.0,Tue-Sun,2.8
+16859,Jan Shatabdi Express,New Delhi,Hyderabad,10:04,20:43,1177.0,11.7,Passenger,CC,4000.0,470.0,1.0,Tue-Sun,4.1
+18331,Humsafar Express,Jaipur,Hyderabad,16:09,18:01,335.0,7.9,Passenger,CC,2208.0,363.0,9.0,Mon-Fri,4.3
+20571,Garib Rath Express,Bhopal,Bhopal,17:01,07:55,,32.5,Premium,2S,1286.0,38.0,3.0,Tue-Sun,2.6
+20684,Rajdhani Express,Chennai Central,Jaipur,06:57,07:35,862.0,4.7,Premium,3A,336.0,14.0,4.0,Mon-Sat,4.8
+19208,Rajdhani Express,Hyderabad,Bengaluru,01:54,13:48,1948.0,19.8,Passenger,2A,3004.0,375.0,10.0,Daily,2.6
+17276,Duronto Express,Vijayawada,New Delhi,10:16,14:54,723.0,16.0,Superfast,1A,,496.0,1.0,Tue-Sun,
+14062,Shatabdi Express,Hyderabad,Pune,20:19,23:04,1352.0,35.4,Mail,2S,1483.0,3.0,13.0,Daily,4.3
+12064,Garib Rath Express,Patna,Bengaluru,13:45,17:04,677.0,5.8,Mail,3A,4343.0,348.0,11.0,Mon-Fri,4.7
+20006,Tamil Nadu Express,Patna,Jaipur,18:18,,2222.0,15.5,Mail,2A,4300.0,469.0,10.0,Daily,4.3
+14568,Gatimaan Express,Hyderabad,Jaipur,06:52,05:47,534.0,35.0,Premium,2A,,408.0,3.0,Mon-Fri,
+17463,Jan Shatabdi Express,Hyderabad,Jaipur,23:19,03:09,,31.4,Premium,2S,1935.0,396.0,2.0,Mon-Sat,3.3
+14027,Humsafar Express,,Bengaluru,12:08,08:24,863.0,29.8,Superfast,SL,900.0,209.0,2.0,Mon-Fri,4.5
+14695,Vande Bharat Express,Chennai Central,Vijayawada,21:40,20:14,1429.0,10.8,Mail,1A,1912.0,160.0,14.0,Mon-Fri,2.7
+21687,Humsafar Express,Hyderabad,Howrah,17:00,23:12,2245.0,7.8,Mail,2A,4070.0,15.0,1.0,Wed-Sun,4.7
+17258,Konkan Kanya Express,Pune,Hyderabad,12:40,23:52,1458.0,24.7,Passenger,2S,631.0,492.0,8.0,Tue-Sun,3.9
+17618,Deccan Queen,Bhopal,,11:15,13:43,546.0,33.6,Premium,2S,303.0,425.0,3.0,Tue-Sun,4.5
+18736,Konkan Kanya Express,Bhopal,,23:37,15:28,2117.0,20.9,Mail,3A,1674.0,107.0,3.0,Mon-Sat,3.6
+12391,Rajdhani Express,Mumbai Central,Patna,07:36,15:33,1431.0,21.4,Superfast,SL,2270.0,381.0,6.0,Mon-Sat,4.1
+17892,Jan Shatabdi Express,Bengaluru,Chennai Central,15:19,19:00,348.0,11.5,Superfast,1A,2493.0,449.0,13.0,Tue-Sun,3.8
+15561,Deccan Queen,Patna,Vijayawada,03:11,02:13,,28.2,Mail,CC,1390.0,310.0,8.0,Wed-Sun,4.3
+22470,Garib Rath Express,New Delhi,Pune,12:18,00:57,,8.4,Premium,3A,210.0,226.0,13.0,Tue-Sun,2.7
+18184,Vande Bharat Express,Jaipur,Howrah,18:42,11:24,1119.0,13.0,Superfast,2A,1088.0,169.0,9.0,Wed-Sun,
+15099,Shatabdi Express,New Delhi,Kolkata,16:17,11:11,641.0,16.5,Passenger,2A,1789.0,33.0,9.0,Mon-Sat,3.1
+18278,Jan Shatabdi Express,Bengaluru,Mumbai Central,16:48,02:52,858.0,19.3,Superfast,3A,4270.0,,4.0,Daily,2.9
+20392,Jan Shatabdi Express,,Jaipur,01:35,13:34,2228.0,10.2,Express,2S,4376.0,,14.0,Mon-Sat,4.7
+15104,Konkan Kanya Express,Kolkata,Lucknow,11:02,19:32,,5.9,Express,2A,3719.0,246.0,5.0,Mon-Sat,3.0
+19215,Rajdhani Express,Chennai Central,Patna,20:13,01:19,896.0,22.8,Premium,SL,1402.0,268.0,2.0,Mon-Fri,4.9
+14454,Intercity Express,Howrah,Chennai Central,00:36,14:45,237.0,11.8,Mail,1A,4353.0,140.0,11.0,Mon-Fri,3.3
+20996,Tamil Nadu Express,Chennai Central,New Delhi,23:12,20:36,2331.0,21.8,Premium,SL,321.0,273.0,9.0,Mon-Fri,3.0
+14731,Konkan Kanya Express,New Delhi,Pune,04:38,03:22,1453.0,7.2,Premium,2A,,415.0,8.0,Mon-Fri,4.5
+22965,Jan Shatabdi Express,New Delhi,Chennai Central,03:36,12:43,1975.0,18.4,Premium,CC,3699.0,95.0,3.0,Wed-Sun,4.1
+20154,Duronto Express,Jaipur,Jaipur,14:26,20:52,168.0,20.1,Premium,1A,4347.0,226.0,11.0,Tue-Sun,3.7
